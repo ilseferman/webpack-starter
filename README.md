@@ -8,7 +8,7 @@ Recuarda reconstruir los módulos de Node con el comando
 npm install
 ```
 
-Y el comando para construir el build, es:
+Y el comando para construir el dist, es:
 ```
 npm run build
 ```
