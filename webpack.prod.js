@@ -15,6 +15,7 @@ module.exports = {
     output:{
         filename:'main.[contentHash].js'
     },
+    performance: { hints: false },
     module: {
         rules: [
             { 
